@@ -10,7 +10,7 @@ source http://npoulain.fr/markdownMemo/
 #### Titre 4
 
 _italique_
-*italique
+*italique*
 __gras__
 **gras**
 
